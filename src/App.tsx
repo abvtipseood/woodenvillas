@@ -355,7 +355,7 @@ export default function App() {
       {/* Hero Section */}
       <section 
         id="home" 
-        className="relative h-screen flex items-center justify-center bg-fixed bg-center bg-cover"
+        className="relative h-screen flex items-center justify-center md:bg-fixed bg-center bg-cover"
         style={{ backgroundImage: `url('https://i.ibb.co/PZBsNsPy/viber-2026-02-27-15-35-29-586.jpg')` }}
       >
         <div className="absolute inset-0 bg-deep-charcoal/40 backdrop-blur-[2px]"></div>
